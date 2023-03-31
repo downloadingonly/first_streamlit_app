@@ -1,4 +1,7 @@
 import streamlit
 
-streamlit.title('test message')
+streamlit.title('breakfast menu')
+streamlit.header('todays menu')
+streamlit.text('bread')
+streamlit.text('cheese')
 
